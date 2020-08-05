@@ -20,5 +20,7 @@ class MainActivity : AppCompatActivity() {
         btn_stop.setOnClickListener {
             fl_main.stopScroll()
         }
+
+        //https://www.jianshu.com/p/c41e5b9bffcc
     }
 }
